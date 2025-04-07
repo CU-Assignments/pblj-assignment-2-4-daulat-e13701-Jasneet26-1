@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class ProductCRUD {
 
-    static final String DB_URL = "jdbc:mysql://localhost:3306/your_database_name";
+    static final String DB_URL = "jdbc:mysql://localhost:3306/jasneet";
     static final String USER = "jasnee";
     static final String PASS = "jasn";
 
