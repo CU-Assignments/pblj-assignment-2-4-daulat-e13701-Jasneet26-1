@@ -5,9 +5,9 @@ import java.sql.ResultSet;
 
 public class EmployeeFetcher {
     public static void main(String[] args) {
-        String url = "jdbc:mysql://localhost:3306/your_database"; 
-        String user = "Employee"; 
-        String password = "Emp1234"; // 
+        String url = "jdbc:mysql://localhost:3306/jasneet"; 
+        String user = "jasnee"; 
+        String password = "jasn"; // 
 
         try {
        
